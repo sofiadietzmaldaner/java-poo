@@ -1,4 +1,4 @@
-# Java POO Final Project
+# Java OOP Final Project
 Final project for the Object-Oriented Programming course at PUCRS.
 
 ## Authors
@@ -19,3 +19,4 @@ The system includes:
 - Java
 - Object-Oriented Programming principles
 - File persistence (CSV / JSON)
+
